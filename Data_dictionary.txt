@@ -1,0 +1,7 @@
+Engine rpm: Revolutions per minute of the engine.
+Lub oil pressure: Pressure exerted by lubricating oil within the engine.
+Fuel pressure: Pressure of the fuel supply to the engine.
+Coolant pressure: Pressure of the engine coolant system.
+Lub oil temp: Temperature of the lubricating oil.
+Coolant temp: Temperature of the engine coolant.
+Engine Condition: Indicates the health state of the engine (0 = unhealthy, 1 = healthy).
